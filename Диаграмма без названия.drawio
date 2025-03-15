@@ -1,9 +1,210 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Страница — 1" id="aDvDUmbyGlde5Zu6tPTn">
-    <mxGraphModel>
+    <mxGraphModel dx="3703" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-5" value="Falconia Telegram Bot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="544" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-13" value="Главное меню" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="530" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="544" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-20" value="Mini App со статьей, где это подробно описано" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;html=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="1189" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="623" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-21" value="Личный кабинет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="608" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-13" target="G3Xb22IQ4b9X-IVwnKhT-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="544" y="720" as="targetPoint" />
+            <mxPoint x="544" y="560" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-18" value="Как извлечь выгоду из бота?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="454" y="1131" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-26" value="Показатели" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="688" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-53" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="160" y="770" width="160" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-54" value="Баланс" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="G3Xb22IQ4b9X-IVwnKhT-53">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-55" value="Количество рефералов" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="G3Xb22IQ4b9X-IVwnKhT-53">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-56" value="Реферальная ссылка" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="G3Xb22IQ4b9X-IVwnKhT-53">
+          <mxGeometry y="86" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-57" target="G3Xb22IQ4b9X-IVwnKhT-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="623" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-57" value="Кнопки" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="608" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-59" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="565" width="160" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G3Xb22IQ4b9X-IVwnKhT-59" source="G3Xb22IQ4b9X-IVwnKhT-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="-35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-60" value="Выключить уведомления" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="G3Xb22IQ4b9X-IVwnKhT-59">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G3Xb22IQ4b9X-IVwnKhT-59" source="G3Xb22IQ4b9X-IVwnKhT-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-170" y="71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-61" value="Вывести средства" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="G3Xb22IQ4b9X-IVwnKhT-59">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-62" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="G3Xb22IQ4b9X-IVwnKhT-59">
+          <mxGeometry y="86" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-64" value="Выключает уведомления и новых рефералах, приведенных с ссылки пользователя" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="500" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-640" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-640" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-66" value="Создает запрос на вывод средств" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="620" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-69" value="Рубли" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="699" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-70" value="USDT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="548" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-73" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="565" width="50" height="151" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-970" y="640.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-74" value="Обработка запроса модерацией" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="625.5" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-76" value="Пополнение счета пользователя(автоматически)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="625.5" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="610.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-77" value="Создать ИИ ассистента" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="595.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="610.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-79" value="Ввод сайта компании" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="998" y="595.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-81" value="Анализ сайта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="595.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1575" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-83" value="Формирование описания сайта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="595.5" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="684" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-85" value="Формирование системного промта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="669" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="684" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-88" value="Выдача системного промта и бота для потенциального клиента" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="991" y="669" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-90" value="Готовый ИИ ассистент" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="765" y="669" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3Xb22IQ4b9X-IVwnKhT-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="539" y="519.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G3Xb22IQ4b9X-IVwnKhT-95" value="Интерфейс" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="160" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
